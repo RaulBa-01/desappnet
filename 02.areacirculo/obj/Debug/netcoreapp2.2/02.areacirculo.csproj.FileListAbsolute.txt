@@ -1,0 +1,11 @@
+C:\Users\Raul\Desktop\proyectos api\02.areacirculo\obj\Debug\netcoreapp2.2\02.areacirculo.csprojAssemblyReference.cache
+C:\Users\Raul\Desktop\proyectos api\02.areacirculo\obj\Debug\netcoreapp2.2\02.areacirculo.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Desktop\proyectos api\02.areacirculo\obj\Debug\netcoreapp2.2\02.areacirculo.AssemblyInfoInputs.cache
+C:\Users\Raul\Desktop\proyectos api\02.areacirculo\obj\Debug\netcoreapp2.2\02.areacirculo.AssemblyInfo.cs
+C:\Users\Raul\Desktop\proyectos api\02.areacirculo\bin\Debug\netcoreapp2.2\02.areacirculo.deps.json
+C:\Users\Raul\Desktop\proyectos api\02.areacirculo\bin\Debug\netcoreapp2.2\02.areacirculo.runtimeconfig.json
+C:\Users\Raul\Desktop\proyectos api\02.areacirculo\bin\Debug\netcoreapp2.2\02.areacirculo.runtimeconfig.dev.json
+c:\Users\Raul\Desktop\proyectos api\02.areacirculo\bin\Debug\netcoreapp2.2\02.areacirculo.dll
+c:\Users\Raul\Desktop\proyectos api\02.areacirculo\bin\Debug\netcoreapp2.2\02.areacirculo.pdb
+c:\Users\Raul\Desktop\proyectos api\02.areacirculo\obj\Debug\netcoreapp2.2\02.areacirculo.dll
+c:\Users\Raul\Desktop\proyectos api\02.areacirculo\obj\Debug\netcoreapp2.2\02.areacirculo.pdb
