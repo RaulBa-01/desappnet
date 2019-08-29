@@ -1,0 +1,11 @@
+C:\Users\Raul\Desktop\proyectos api\09.vectoresaleatorios\obj\Debug\netcoreapp2.2\09.vectoresaleatorios.csprojAssemblyReference.cache
+C:\Users\Raul\Desktop\proyectos api\09.vectoresaleatorios\obj\Debug\netcoreapp2.2\09.vectoresaleatorios.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Desktop\proyectos api\09.vectoresaleatorios\obj\Debug\netcoreapp2.2\09.vectoresaleatorios.AssemblyInfoInputs.cache
+C:\Users\Raul\Desktop\proyectos api\09.vectoresaleatorios\obj\Debug\netcoreapp2.2\09.vectoresaleatorios.AssemblyInfo.cs
+C:\Users\Raul\Desktop\proyectos api\09.vectoresaleatorios\bin\Debug\netcoreapp2.2\09.vectoresaleatorios.deps.json
+C:\Users\Raul\Desktop\proyectos api\09.vectoresaleatorios\bin\Debug\netcoreapp2.2\09.vectoresaleatorios.runtimeconfig.json
+C:\Users\Raul\Desktop\proyectos api\09.vectoresaleatorios\bin\Debug\netcoreapp2.2\09.vectoresaleatorios.runtimeconfig.dev.json
+C:\Users\Raul\Desktop\proyectos api\09.vectoresaleatorios\bin\Debug\netcoreapp2.2\09.vectoresaleatorios.dll
+C:\Users\Raul\Desktop\proyectos api\09.vectoresaleatorios\bin\Debug\netcoreapp2.2\09.vectoresaleatorios.pdb
+C:\Users\Raul\Desktop\proyectos api\09.vectoresaleatorios\obj\Debug\netcoreapp2.2\09.vectoresaleatorios.dll
+C:\Users\Raul\Desktop\proyectos api\09.vectoresaleatorios\obj\Debug\netcoreapp2.2\09.vectoresaleatorios.pdb

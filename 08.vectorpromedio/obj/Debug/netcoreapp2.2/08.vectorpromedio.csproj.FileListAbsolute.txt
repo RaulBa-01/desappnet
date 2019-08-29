@@ -1,0 +1,11 @@
+c:\Users\Raul\Desktop\proyectos api\08.vectorpromedio\obj\Debug\netcoreapp2.2\08.vectorpromedio.csprojAssemblyReference.cache
+c:\Users\Raul\Desktop\proyectos api\08.vectorpromedio\obj\Debug\netcoreapp2.2\08.vectorpromedio.csproj.CoreCompileInputs.cache
+c:\Users\Raul\Desktop\proyectos api\08.vectorpromedio\obj\Debug\netcoreapp2.2\08.vectorpromedio.AssemblyInfoInputs.cache
+c:\Users\Raul\Desktop\proyectos api\08.vectorpromedio\obj\Debug\netcoreapp2.2\08.vectorpromedio.AssemblyInfo.cs
+C:\Users\Raul\Desktop\proyectos api\08.vectorpromedio\bin\Debug\netcoreapp2.2\08.vectorpromedio.deps.json
+C:\Users\Raul\Desktop\proyectos api\08.vectorpromedio\bin\Debug\netcoreapp2.2\08.vectorpromedio.runtimeconfig.json
+C:\Users\Raul\Desktop\proyectos api\08.vectorpromedio\bin\Debug\netcoreapp2.2\08.vectorpromedio.runtimeconfig.dev.json
+C:\Users\Raul\Desktop\proyectos api\08.vectorpromedio\bin\Debug\netcoreapp2.2\08.vectorpromedio.dll
+C:\Users\Raul\Desktop\proyectos api\08.vectorpromedio\bin\Debug\netcoreapp2.2\08.vectorpromedio.pdb
+C:\Users\Raul\Desktop\proyectos api\08.vectorpromedio\obj\Debug\netcoreapp2.2\08.vectorpromedio.dll
+C:\Users\Raul\Desktop\proyectos api\08.vectorpromedio\obj\Debug\netcoreapp2.2\08.vectorpromedio.pdb
