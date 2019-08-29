@@ -1,0 +1,11 @@
+C:\Users\Raul\Desktop\proyectos api\05.ciclos\bin\Debug\netcoreapp2.2\05.ciclos.deps.json
+C:\Users\Raul\Desktop\proyectos api\05.ciclos\bin\Debug\netcoreapp2.2\05.ciclos.runtimeconfig.json
+C:\Users\Raul\Desktop\proyectos api\05.ciclos\bin\Debug\netcoreapp2.2\05.ciclos.runtimeconfig.dev.json
+C:\Users\Raul\Desktop\proyectos api\05.ciclos\bin\Debug\netcoreapp2.2\05.ciclos.dll
+C:\Users\Raul\Desktop\proyectos api\05.ciclos\bin\Debug\netcoreapp2.2\05.ciclos.pdb
+C:\Users\Raul\Desktop\proyectos api\05.ciclos\obj\Debug\netcoreapp2.2\05.ciclos.csprojAssemblyReference.cache
+C:\Users\Raul\Desktop\proyectos api\05.ciclos\obj\Debug\netcoreapp2.2\05.ciclos.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Desktop\proyectos api\05.ciclos\obj\Debug\netcoreapp2.2\05.ciclos.AssemblyInfoInputs.cache
+C:\Users\Raul\Desktop\proyectos api\05.ciclos\obj\Debug\netcoreapp2.2\05.ciclos.AssemblyInfo.cs
+C:\Users\Raul\Desktop\proyectos api\05.ciclos\obj\Debug\netcoreapp2.2\05.ciclos.dll
+C:\Users\Raul\Desktop\proyectos api\05.ciclos\obj\Debug\netcoreapp2.2\05.ciclos.pdb
