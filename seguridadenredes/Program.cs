@@ -10,7 +10,7 @@ namespace Redes
         static void Main(string[] args)
         {
             CultureInfo InfoCultural = new CultureInfo("en-US");
-            Red miRed = new Red("Red Patito","Mr Pato","Av.Priceton 123, Orlando Florida");
+            Red miRed = new Red("Red Patito","Mr Pato Macdonald","Av.Priceton 123, Orlando Florida");
             Console.WriteLine("Datos generales de la Red:");
             
             miRed.AgregarNodo(new Nodo("192.160.0.100","servidor","3","10","Linux"));
