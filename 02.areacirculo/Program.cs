@@ -7,14 +7,16 @@ namespace _02.areacirculo
         static void Main(string[] args)
         {
             double radio=0, area=0;
-        
-            Console.WriteLine("Programa que calcula el area de un circulo!");
-            Console.WriteLine("dame el radio ");
+
+            Console.Clear();
+            Console.WriteLine("Programa que calcula el area de un circulo");
+            Console.WriteLine("Dame el radio ");
             radio = float.Parse(Console.ReadLine());
 
             area = Math.PI * Math.Pow(radio,2);
 
-            Console.WriteLine($" es area es {area}");
+            Console.Write($" El area es {area}");
+
         }
     }
 }
